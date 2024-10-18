@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Conexion {
-	
+	//COMENTARIO PARA GENERAR UN NUEVO COMMIT CON UNA NUEVA VERSION
 	private static final String CONTROLADOR = "com.mysql.cj.jdbc.Driver";
 	private static final String URL = "jdbc:mysql://localhost:3306/prueba_mysql";
 	private static final String usuario = "root";
